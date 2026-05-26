@@ -12,7 +12,7 @@ namespace NovaAI.Services
         {
             _http = http;
             // Gerçek çalışan API anahtarını tek bir yerde tanımlıyoruz, böylece tüm metotlar buna bağlanıyor:
-            _apiKey = "AIzaSyDv4vL_BMLp9IPshB9nQ4sx4XgST7TTJfY";
+            _apiKey = "APIKEYYAZ";
         }
 
         // ── Kanal ID'yi URL'den çıkar ──
